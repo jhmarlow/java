@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Constructor",
+            "request": "launch",
+            "mainClass": "Constructor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "MyClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - newclass",
+            "request": "launch",
+            "mainClass": "newclass"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "classPaths": [
+                "java"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}

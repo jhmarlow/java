@@ -1,0 +1,141 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch usingNestedClasses",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingNestedClasses",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingExceptions",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingExceptions",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingFiles",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingFiles",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingIO",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingIO",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch instances",
+            "request": "launch",
+            "mainClass": "com.example.concepts.instances",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.example.examples.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingCLI",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingCLI",
+            "projectName": "demo",
+            "args": "test"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingMethods",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingMethods",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingRegex",
+            "request": "launch",
+            "mainClass": "com.example.concepts.usingRegex",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingRegex",
+            "request": "launch",
+            "mainClass": "com.example.usingRegex",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreedyAlgo",
+            "request": "launch",
+            "mainClass": "com.example.algorithms.GreedyAlgo",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch InBuiltMethods",
+            "request": "launch",
+            "mainClass": "com.example.InBuiltMethods",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfStatement",
+            "request": "launch",
+            "mainClass": "com.example.IfStatement",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loop",
+            "request": "launch",
+            "mainClass": "com.example.Loop",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constructor",
+            "request": "launch",
+            "mainClass": "com.example.Constructor",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeTest",
+            "request": "launch",
+            "mainClass": "com.example.EmployeeTest",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Puppy",
+            "request": "launch",
+            "mainClass": "com.example.Puppy",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch FreshJuiceTest",
+            "request": "launch",
+            "mainClass": "com.example.FreshJuiceTest",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.example.App"
+        }
+    ]
+}
